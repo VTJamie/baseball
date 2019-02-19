@@ -1,0 +1,29 @@
+{
+  "name": "mediaserver",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.*",
+    "bootstrap-sass-official": "*",
+    "requirejs": "*",
+    "angular-bootstrap": "0.13.0",
+    "angular-ui-router": "*",
+    "angular-ui-mask": "*",
+    "angular-ui-validate": "*",
+    "angular-snap": "*",    
+    "angular-busy": "*",
+    "angular-bootstrap-checkbox": "*",
+    "moment": "*",
+    "angular-bootstrap-switch": "*",
+    "bootstrap-switch": "*",
+    "jquery": "1.*",
+    "modernizr": "*",
+    "fastclick": "*",
+    "es5-shim": "*",
+    "respond": "*",
+    "html5shiv": "*",
+    "ngMask": "https://github.com/candreoliveira/ngMask.git",
+    "angular-pull-to-refresh": "*"
+  },
+  "devDependencies": {},
+  "appPath": "app"
+}

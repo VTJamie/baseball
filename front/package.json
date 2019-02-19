@@ -1,0 +1,35 @@
+{
+  "name": "mediaserver",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+     "bower": "*",
+        "grunt": "*",
+        "grunt-bower-linker": "*",
+        "grunt-bower-requirejs": "*",
+        "grunt-connect-proxy": "0.1.10",
+        "grunt-contrib-clean": "*",
+      "grunt-contrib-concat": "*",
+      "grunt-contrib-cssmin": "*",
+        "grunt-contrib-compass": "*",
+        "grunt-contrib-connect": "*",
+        "serve-static": "*",
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-htmlmin": "*",
+        "grunt-contrib-requirejs": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-angular-templates": "*",
+        "grunt-ng-annotate": "*",
+        "grunt-targethtml": "*",
+        "grunt-contrib-uglify": "*",
+        "time-grunt": "*",
+        "grunt-usemin": "*",
+        "load-grunt-tasks": "*",
+        "requirejs": "*",
+		"grunt-tfs-unlock": "*",
+		"grunt-prettysass": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
